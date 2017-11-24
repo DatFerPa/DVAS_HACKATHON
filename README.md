@@ -3,6 +3,7 @@
 Página para ver el muro:
 <a href="https://las-dvas-prueba.mybluemix.net/prueba"> enlace</a>
 <br/>
-Username:lasdivas 
-Password:mariatiabuena
+Username: lasdivas 
+<br/>
+Password: mariatiabuena
 
